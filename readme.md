@@ -10,8 +10,8 @@ Before starting to program the robot, your development environment must be set u
 Before starting to code the robot, a basic understanding of Java is required. Here is an overview of the training schedule
 * Learn java [↵](docs/learning_java.md)
 * Java OOP Assignment [↵](assignments/java_oop_assignment.md)
-* Learn WPILib [↵]()
+* Learn WPILib [↵](docs/wpilib/readme.md)
     * WPILib structure [↵]()
-    * Creating a new project [↵]()
+    * Creating a new project [↵](docs/wpilib/create_project.md)
     * Creating teleop robot [↵]()
     * Teleop Assignment [↵]()
