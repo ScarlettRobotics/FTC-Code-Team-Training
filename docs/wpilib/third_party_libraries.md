@@ -4,8 +4,8 @@ Some motor controllers or sensors require third party libraries to use. For exam
 ## Enabling the Pheonix Library
 1. Open WPILib VSCode
 2. Click the WPILib icon in the top right corner.
-<img src="../../assets/wpilib_toolbar.png" />
+![](../../assets/wpilib_toolbar.png)
 3. Find manage vendor libraries on the list.
-<img src="../../assets/wpilib_command_palette2.png" />
+![](../../assets/wpilib_command_palette2.png)
 4. Choose Install new libraries (offline)
-<img src="../../assets/vendor_libraries.png" />
+![](../../assets/vendor_libraries.png)
