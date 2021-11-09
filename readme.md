@@ -8,7 +8,7 @@ Before starting to program the robot, your development environment must be set u
 
 ## Training Overview
 Before starting to code the robot, a basic understanding of Java is required. Here is an overview of the training schedule
-* Learn java [↵](docs/learning_java.md)
+* Learn Java [↵](docs/learning_java.md)
 * Java OOP Assignment [↵](assignments/java_oop_assignment.md)
 * Git Assignment [↵](docs/git/learning_git.md)
 * Learn WPILib [↵](docs/wpilib/readme.md)

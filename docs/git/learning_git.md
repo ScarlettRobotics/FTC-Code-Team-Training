@@ -6,12 +6,12 @@ Git is a version control system. It allows you to save snapshots or "commits" of
 Make sure git is installed on your computer. To check if you have git installed, type `git --version` in a terminal/command prompt. If it gives you a version back, you are good to go. If you need to install git, see the [setup page](../setup.md).
 
 ## Gettings Started
-Before using git, we first need to create a GitHub account. GitHub is a remote repository, allowing multiple uses to collaborate on the same project. Create an account on [github.com](https://www.github.com).
+Before using git, we first need to create a GitHub account. GitHub is a remote repository, allowing multiple users to collaborate on the same project. Create an account on [github.com](https://www.github.com).
 
 ## Your assignment
 1. Download your Java OOP assignment. This can be done by clicking the three dots beside the root folder in the online ide.
 
-2. Fork the scarlett robotics [git-practice](https://GitHub.com/ScarlettRobotics/git-practice) repository. This can be done by clicking the fork button in the top right corner.
+2. Fork the Scarlett Robotics [git-practice](https://GitHub.com/ScarlettRobotics/git-practice) repository. This can be done by clicking the fork button in the top right corner.
 
 3. Clone the repository to your local system. 
 > If you're using GitHub desktop, select file > clone repository.
@@ -42,7 +42,7 @@ Congratulations! You made your first git commit. If you go to your repository on
 Now that you've made changes your repository, lets get those changes on the main scarlett robotics repository.
 
 1. On your repository on GitHub, click contribute:
-![](../../assets/GitHub_create_pull_request.png)
+![](../../assets/github_create_pull_request.png)
 2. Click open pull request.
 3. Click create pull request.
 4. Name your pull request
