@@ -30,3 +30,28 @@ The robot has a predefined structure. There are two main components to your robo
 
 ## Commands
 Commands use subsystems to control the robot. Subsystems define what you __can__ do with the robot. Commands define how you do it.
+
+### Teleop Commands
+
+These commands are run whenever the robot is in teleop mode. 
+
+#### **Registering Teleop Commands**
+In the `RobotContainer` class, define a subsystem's default command.
+```java
+driveTrain.setDefaultCommand(new ExampleCommand(driveTrain));
+```
+
+#### **Command Class Structure**
+Commands have four functions that ccan be overriden from the CommandBase class. These functions are as follows:
+
+```java
+@Override
+public void initialize() {
+    //This is called when the command is initalized
+}
+
+@Override
+public void execute() {
+    //This is called every tick when the command is active.
+}
+```
