@@ -11,12 +11,12 @@ Before using git, we first need to create a GitHub account. GitHub is a remote r
 ## Your assignment
 1. Download your Java OOP assignment. This can be done by clicking the three dots beside the root folder in the online ide.
 
-2. Fork the Scarlett Robotics [git-practice](https://GitHub.com/ScarlettRobotics/git-practice) repository. This can be done by clicking the fork button in the top right corner.
+2. Fork the Scarlett Robotics [git-practice](https://github.com/ScarlettRobotics/git-practice) repository. This can be done by clicking the fork button in the top right corner.
 
 3. Clone the repository to your local system. 
 > If you're using GitHub desktop, select file > clone repository.
 
-> If you're using git on the command line, use `git clone [your repo url] [location to clone]`. This will look something like `git clone https://GitHub.com/Kappabyte/git-practice C:\Users\avery\dev\git-practice`. You can use an absolute path (as shown) or a relative path to your current directory.
+> If you're using git on the command line, use `git clone [your repo url] [location to clone]`. This will look something like `git clone https://github.com/Kappabyte/git-practice C:\Users\avery\dev\git-practice`. You can use an absolute path (as shown) or a relative path to your current directory.
     
 > If you are using VSCode's built in git system, click clone repository in the git tab in the sidebar.
 
