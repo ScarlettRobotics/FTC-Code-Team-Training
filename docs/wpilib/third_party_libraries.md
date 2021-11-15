@@ -1,3 +1,4 @@
+[Back](./readme.md)
 # Third Party Libraries
 Some motor controllers or sensors require third party libraries to use. For example, the `VictorSPX` motor controller is a part of the Pheonix software. In order to use it, you must install the Pheonix Framework, which can be found on the [setup page](../setup.md).
 

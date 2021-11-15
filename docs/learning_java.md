@@ -1,7 +1,7 @@
 [Back](../readme.md)
 
 ## Learning Java
-Because the robot is programmed in java, a solid understanding of Java is required before starting to code the robot.
+Because the robot is programmed in Java, a solid understanding of Java is required before starting to code the robot.
 
 1. Sign up for codeacadamy at https://www.codecademy.com/
 2. Go to the [learn Java page](https://www.codecademy.com/learn/learn-java)

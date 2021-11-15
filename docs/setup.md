@@ -12,7 +12,7 @@ All required software can be run on windows/mac/linux.<br>The driver station and
     * Git is required to clone, checkout, commit and push changes to the robot code to github. 
 
 ## Optional Software
-* [Github Desktop](https://desktop.github.com)
+* [GitHub Desktop](https://desktop.github.com)
     * A standalone git client. Not required as git is built in to VSCode.
 
 ## Additional utilities

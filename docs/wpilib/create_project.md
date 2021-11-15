@@ -1,4 +1,4 @@
-[Back](../readme.md)
+[Back](./readme.md)
 
 # Creating a WPILib Project
 In order to write code for the robot, you must first create a project.
