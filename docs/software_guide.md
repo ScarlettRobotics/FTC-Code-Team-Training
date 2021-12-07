@@ -4,7 +4,7 @@ The instructions may differ based on if you are using Windows, MacOS, or Linux.
 
 Unfortunately this software is unavailable on ChromeOS without some workarounds.
 
-    If you do have a ChromeBook and can not bring in a Windows, MacOS, or Linux laptop please speak to one of the code team leads.
+If you do have a ChromeBook and can not bring in a Windows, MacOS, or Linux laptop please speak to one of the code team leads.
 
 
 ***
