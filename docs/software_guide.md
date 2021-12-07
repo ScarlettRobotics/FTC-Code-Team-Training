@@ -32,9 +32,9 @@ https://www.jetbrains.com/idea/download/), please get the community edition as i
 
 
 5. Open the repository in IntelliJ IDEA
-    On the main page of GitHub Desktop, there is an option to `Open the repository in your external editor`, if it says `Open in JetBrains IntelliJ Idea`, pleas click that button.
+    On the main page of GitHub Desktop, there is an option to `Open the repository in your external editor`, if it says `Open in JetBrains IntelliJ Idea`, please click that button.
     If not, open settings for GitHub desktop, go to integrations, then set `JetBrains IntelliJ Idea` as the external editor. IF it is not an option, close and reopen GitHub Desktop. 
-    ### When it opens, hit trust this project.
+    <b>When it opens, hit trust this project.</b>
 
 
 6. Build the project in IntelliJ IDEA
@@ -48,10 +48,10 @@ https://www.jetbrains.com/idea/download/), please get the community edition as i
 8. Fix SDK location not found error
     Create a new file called `local.properties` in the root of the project folder and add the following infromation depending on your OS:
 
-    Windows: `sdk.dir=C:\\Users\\UserName\\AppData\\Local\\Android\\sdk' with `UserName` replaced with your Windows Username
+    Windows: `sdk.dir=C:\\Users\\UserName\\AppData\\Local\\Android\\sdk` with `UserName` replaced with your Windows Username
 
     MacOS: `sdk.dir = /Users/USERNAME/Library/Android/sdk` with `UserName` replaced with your MacOS Username
-    
+
     Linux: `sdk.dir = /home/USERNAME/Android/Sdk` with `UserName` replaced with your Linux username
 
 ## You are all done!! Happy Coding!
