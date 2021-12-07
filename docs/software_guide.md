@@ -10,10 +10,40 @@ Unfortunately this software is unavailable on ChromeOS without some workarounds.
 ## Software Installation Guide
 
 1. Install GitHub Desktop
-    The installer is on this [site] (https://desktop.github.com), and will be essential in collaborating with the team. 
+    The installer is on this [site](
+https://desktop.github.com), and will be essential in collaborating with the team. 
 
 2. Install IntelliJ IDEA Community Edition 
-    This is the software where you will be writing the robot code. You can download it [here] (https://www.jetbrains.com/idea/download/), please get the community edition as it is free, and we are not using any features that are only in Ultimate. 
+    This is the software where you will be writing the robot code. You can download it [here](
+https://www.jetbrains.com/idea/download/), please get the community edition as it is free, and we are not using any features that are only in Ultimate. 
 
 3. Prepare IntelliJ IDEA for Android Development
+    1. Click `Create New Project`
+    2. Install the Java JDK
+        At the top of the window you should see a drop down for `Project SDK`, click it, then click `Download JDK...` select version 11 and set the vendor to 1Eclipse Temurin (AdoptOpenJDK HotSpot)` then click download. 
+    3. Install Android SDK
+        On the side bar, click Android, then when it mentions that you do not have the Android SDK, follow it's prompts to install it. 
+
+4. Clone the FTC-2021 repository
+    In GitHub Desktop, after you have signed in, click current repository, then add, then clone, and find FTC-2021 in the list, hit clone. After, hit fetch orgin at the top of the window. 
+
+5. Open the repository in IntelliJ IDEA
+    On the main page of GitHub Desktop, there is an option to `Open the repository in your external editor`, if it says `Open in JetBrains IntelliJ Idea`, pleas click that button.
+    If not, open settings for GitHub desktop, go to integrations, then set `JetBrains IntelliJ Idea` as the external editor. IF it is not an option, close and reopen GitHub Desktop. 
+    ### When it opens, hit trust this project.
+
+6. Build the project in IntelliJ IDEA
+    Hit the green hammer in the top right of the IntelliJ IDEA window, and let it run. This will take a while. Open the build tab on the bottom of the window to see it progress.
+
+7. Download Android SDK 29
+    The build will leave a few error messages, this is normal. In the build tab, click on the error that says `Failed to install the following Android SDK packages...` at the bottom of the build tab. Hit `Install missing SDK package(s)`, and follow the prompts. Build the program again with the green hammer. 
+
+8. Fix SDK location not found error
+    Create a new file called `local.properties` in the root of the project folder and add the following infromation depending on your OS:
+    Windows: `sdk.dir=C:\\Users\\UserName\\AppData\\Local\\Android\\sdk' with `UserName` replaced with your Windows Username
+    MacOS: `sdk.dir = /Users/USERNAME/Library/Android/sdk` with `UserName` replaced with your MacOS Username
+    Linux: `sdk.dir = /home/USERNAME/Android/Sdk` with `UserName` replaced with your Linux username
+
+## You are all done!! Happy Coding!
+
         
