@@ -7,5 +7,5 @@ Before starting to code the robot, a basic understanding of Java is required. He
 * Java OOP Assignment [↵](assignments/java_oop_assignment.md)
 * Git Assignment [↵](docs/git/learning_git.md)
 * Install Required Software [↵](docs/software_guide.md)
-    * Please do this on your personal laptop that you will be bringing in as we are unable to do this on the desktops, and we do not have loaner laptops. 
+    * Please do this on your personal laptop. You should try to bring in your laptop since we are unable to do this on the desktops, and we do not have many loaner laptops. (If you do not have a laptop to bring in, that is fine, please come to talk to a code team lead.)
     
