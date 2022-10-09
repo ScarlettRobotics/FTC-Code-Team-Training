@@ -1,4 +1,4 @@
-# 4733 FTC Code Team Training 2021/22 
+# Scarlett Robotics FTC Code Team Training
 Welcome to Scarlett Robotics. This repo contains everything you need to learn to program an FTC robot.
 
 ## Training Overview
