@@ -94,6 +94,7 @@ https://www.jetbrains.com/idea/download/), please get the community edition as i
     Linux: `sdk.dir = /home/USERNAME/Android/Sdk` with `UserName` replaced with your Linux username
 
 <br>
+
 ## You are all done!! Happy Coding!
 
         
