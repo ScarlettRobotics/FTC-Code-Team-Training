@@ -3,6 +3,16 @@
 ## Learning Java
 Because the robot is programmed in Java, a solid understanding of Java is required before starting to code the robot.
 
-1. Sign up for codeacadamy at https://www.codecademy.com/
-2. Go to the [learn Java page](https://www.codecademy.com/learn/learn-java)
-3. Complete the diffrent units. Unit 5 (Arrays and ArrayLists) is not required, but can be useful.
+If you are new to code, don't worry!
+There are many ways to learn Java basics:
+1. [Sololearn](https://www.sololearn.com/learn/courses/java-introduction):
+   Take the "Introduction to Java" course, omitting the "Arrays" section.
+2. [Codecademy](https://www.codecademy.com/learn/learn-java):
+   Take the "Learn Java" course, omitting the "Arrays and ArrayLists" and "String Methods" sections.
+3. [W3Schools](https://www.w3schools.com/java):
+   Go through "Java Tutorial" (everything except "Java Arrays") and "Java Methods".
+4. [YouTube](https://youtu.be/A74TOX803D0):
+   Go through the video, skipping the "Arrays", "ArrayLists", and "HashMaps" sections.
+
+While there are some concepts that aren't needed for Scarlett Robotics,
+you're free to learn extra information for your own benefit!
